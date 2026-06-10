@@ -1,0 +1,3 @@
+[submodule "StarTopologyEmulator"]
+	path = StarTopologyEmulator
+	url = git@github.com:MrIvanushka/StarTopologyEmulator.git
